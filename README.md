@@ -1,4 +1,4 @@
-# Mall Customer's Data K means Hierarchical Clustering
+# Mall Customer's Data 
 
 
 ## Unsupervised  Clustering K means &  Hierarchical Clustering : Data - ( Mall Customer's Data)
