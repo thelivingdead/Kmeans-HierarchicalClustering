@@ -11,5 +11,4 @@ The K-means algorithm identifies k number of centroids, and then allocates every
 
 #### While Hierarchical Clustering
 
-Seeks to build a hierarchy of clusters without having fixed number of cluster.
-
+Seeks to build a hierarchy of clusters without having fixed number of cluster
